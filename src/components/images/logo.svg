@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 211.4 66.3" style="enable-background:new 0 0 211.4 66.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:#ED1C24;}
+	.st3{fill:#474747;}
+</style>
+<g xmlns="http://www.w3.org/2000/svg">
+	
+		<radialGradient id="SVGID_1_" cx="420.193" cy="-343.073" r="32.1225" gradientTransform="matrix(1 0 0 -1 -393.35 -324.7297)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#ED1C24"/>
+		<stop offset="1" style="stop-color:#8C003F"/>
+	</radialGradient>
+	<path class="st0" d="M22.9,2.5v4.8h-4.8V2.5H22.9z M32.4,26.3v-4.8h-4.8v4.8h-4.8V31h-4.8v-4.8h4.8v-4.8h4.8V7.3h-4.8V12h-4.8v4.8   h-4.8v4.8H8.6v4.8H3.8v9.5h4.8v4.8h23.8v-4.8h4.8v-9.5L32.4,26.3L32.4,26.3z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="8.6379" y1="15.8778" x2="32.4282" y2="15.8778" gradientTransform="matrix(1 0 0 -1 0 68.3303)">
+		<stop offset="0" style="stop-color:#6D6E71"/>
+		<stop offset="9.000000e-02" style="stop-color:#727376"/>
+		<stop offset="0.2" style="stop-color:#818285"/>
+		<stop offset="0.31" style="stop-color:#9A9B9D"/>
+		<stop offset="0.44" style="stop-color:#BCBEBF"/>
+		<stop offset="0.51" style="stop-color:#D1D3D4"/>
+		<stop offset="0.54" style="stop-color:#C0C2C4"/>
+		<stop offset="0.62" style="stop-color:#A2A4A6"/>
+		<stop offset="0.7" style="stop-color:#8B8C8F"/>
+		<stop offset="0.79" style="stop-color:#7A7B7E"/>
+		<stop offset="0.88" style="stop-color:#707174"/>
+		<stop offset="1" style="stop-color:#6D6E71"/>
+	</linearGradient>
+	<polygon class="st1" points="8.6,40.6 8.6,45.3 13.4,45.3 13.4,50.1 18.2,50.1 18.2,64.3 22.9,64.3 22.9,50.1 27.7,50.1 27.7,45.3    32.4,45.3 32.4,40.6  "/>
+	<rect x="8.6" y="39.9" class="st2" width="23.8" height="0.7"/>
+</g>
+</svg>
